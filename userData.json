@@ -1,0 +1,21 @@
+[
+  {
+    "userId": "b2b4aa55-e26c-4899-9bb0-0216aceacd42",
+    "actions": [
+      "updateProfile",
+      "reissueCertificate"
+    ],
+    "profileDetails": {
+      "firstName": "",
+      "lastName": "",
+      "regNurseRegMidwifeNumber": ""
+    },
+    "courseDetails": [
+      {
+        "courseId": "do_1135953715273646081267",
+        "batchId": "0136103495294812169"
+      }
+    ]
+  }
+  
+]

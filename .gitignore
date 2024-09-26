@@ -1,0 +1,5 @@
+.env
+node_modules
+courseLogs.txt
+stage.txt
+prod.txt
